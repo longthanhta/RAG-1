@@ -1,0 +1,22 @@
+[project]
+name = "rag-1"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Chandler TA",email = "tanguyenthanhlong@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [{include = "rag_1", from = "src"}]
+
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.11.13"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -7,8 +7,7 @@ DOCUMENTS = [
     "The Pacific Ocean is the largest ocean on Earth.",
     "Dolphins are highly intelligent marine mammals.",
     "Coral reefs are important for marine biodiversity.",
-    "Ho Tay is the deepest part of the world's oceans.",
-    "Some fish can glow in the dark due to bioluminescence."
+    "Ho Tay is the deepest part of the world's oceans.", "Some fish can glow in the dark due to bioluminescence."
 ]
 
 def retrieve_relevant_document(query, documents):

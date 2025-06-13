@@ -5,4 +5,5 @@ __pycache__/
 .env
 *.log
 *.sqlite3
+.vscode/
 poetry.lock

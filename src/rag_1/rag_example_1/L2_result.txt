@@ -1,0 +1,814 @@
+
+🔎 Question 1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+🎯 Gold Answer: Saint Bernadette Soubirous
+
+Result 1 (score=0.7972) — Contains answer: ✅ YES
+(Context hash: 4a7a4356)
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is...
+
+
+🔎 Question 2: What is in front of the Notre Dame Main Building?
+🎯 Gold Answer: a copper statue of Christ
+
+Result 1 (score=0.8155) — Contains answer: ❌ NO
+(Context hash: 6bdc076c)
+The University of Notre Dame du Lac (or simply Notre Dame /ˌnoʊtərˈdeɪm/ NOH-tər-DAYM) is a Catholic research university located adjacent to South Bend, Indiana, in the United States. In French, Notre Dame du Lac means "Our Lady of the Lake" and refers to the university's patron saint, the Virgin Ma...
+
+
+🔎 Question 3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+🎯 Gold Answer: the Main Building
+
+Result 1 (score=0.6992) — Contains answer: ❌ NO
+(Context hash: 2e9583b5)
+Because of its Catholic identity, a number of religious buildings stand on campus. The Old College building has become one of two seminaries on campus run by the Congregation of Holy Cross. The current Basilica of the Sacred Heart is located on the spot of Fr. Sorin's original church, which became t...
+
+
+🔎 Question 4: What is the Grotto at Notre Dame?
+🎯 Gold Answer: a Marian place of prayer and reflection
+
+Result 1 (score=0.8099) — Contains answer: ❌ NO
+(Context hash: 6bdc076c)
+The University of Notre Dame du Lac (or simply Notre Dame /ˌnoʊtərˈdeɪm/ NOH-tər-DAYM) is a Catholic research university located adjacent to South Bend, Indiana, in the United States. In French, Notre Dame du Lac means "Our Lady of the Lake" and refers to the university's patron saint, the Virgin Ma...
+
+
+🔎 Question 5: What sits on top of the Main Building at Notre Dame?
+🎯 Gold Answer: a golden statue of the Virgin Mary
+
+Result 1 (score=0.7866) — Contains answer: ❌ NO
+(Context hash: 6bdc076c)
+The University of Notre Dame du Lac (or simply Notre Dame /ˌnoʊtərˈdeɪm/ NOH-tər-DAYM) is a Catholic research university located adjacent to South Bend, Indiana, in the United States. In French, Notre Dame du Lac means "Our Lady of the Lake" and refers to the university's patron saint, the Virgin Ma...
+
+
+🔎 Question 6: When did the Scholastic Magazine of Notre dame begin publishing?
+🎯 Gold Answer: September 1876
+
+Result 1 (score=0.7699) — Contains answer: ✅ YES
+(Context hash: dcc3a3ef)
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued tw...
+
+
+🔎 Question 7: How often is Notre Dame's the Juggler published?
+🎯 Gold Answer: twice
+
+Result 1 (score=0.8345) — Contains answer: ✅ YES
+(Context hash: dcc3a3ef)
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued tw...
+
+
+🔎 Question 8: What is the daily student paper at Notre Dame called?
+🎯 Gold Answer: The Observer
+
+Result 1 (score=0.8332) — Contains answer: ✅ YES
+(Context hash: dcc3a3ef)
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued tw...
+
+
+🔎 Question 9: How many student news papers are found at Notre Dame?
+🎯 Gold Answer: three
+
+Result 1 (score=0.7382) — Contains answer: ✅ YES
+(Context hash: dcc3a3ef)
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued tw...
+
+
+🔎 Question 10: In what year did the student paper Common Sense begin publication at Notre Dame?
+🎯 Gold Answer: 1987
+
+Result 1 (score=0.8990) — Contains answer: ✅ YES
+(Context hash: dcc3a3ef)
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued tw...
+
+
+🔎 Question 11: Where is the headquarters of the Congregation of the Holy Cross?
+🎯 Gold Answer: Rome
+
+Result 1 (score=0.8144) — Contains answer: ✅ YES
+(Context hash: 5150e109)
+The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the sh...
+
+
+🔎 Question 12: What is the primary seminary of the Congregation of the Holy Cross?
+🎯 Gold Answer: Moreau Seminary
+
+Result 1 (score=0.7703) — Contains answer: ✅ YES
+(Context hash: 5150e109)
+The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the sh...
+
+
+🔎 Question 13: What is the oldest structure at Notre Dame?
+🎯 Gold Answer: Old College
+
+Result 1 (score=0.8712) — Contains answer: ❌ NO
+(Context hash: 6bdc076c)
+The University of Notre Dame du Lac (or simply Notre Dame /ˌnoʊtərˈdeɪm/ NOH-tər-DAYM) is a Catholic research university located adjacent to South Bend, Indiana, in the United States. In French, Notre Dame du Lac means "Our Lady of the Lake" and refers to the university's patron saint, the Virgin Ma...
+
+
+🔎 Question 14: What individuals live at Fatima House at Notre Dame?
+🎯 Gold Answer: Retired priests and brothers
+
+Result 1 (score=0.9241) — Contains answer: ❌ NO
+(Context hash: 6bdc076c)
+The University of Notre Dame du Lac (or simply Notre Dame /ˌnoʊtərˈdeɪm/ NOH-tər-DAYM) is a Catholic research university located adjacent to South Bend, Indiana, in the United States. In French, Notre Dame du Lac means "Our Lady of the Lake" and refers to the university's patron saint, the Virgin Ma...
+
+
+🔎 Question 15: Which prize did Frederick Buechner create?
+🎯 Gold Answer: Buechner Prize for Preaching
+
+Result 1 (score=1.1196) — Contains answer: ❌ NO
+(Context hash: 266dc527)
+According to Scientific Elite: Nobel Laureates in the United State by Harriet Zuckerman, a review of American Nobel prizes awarded between 1901 and 1972, 72% of American Nobel Prize laureates identified a Protestant background. Overall, Protestants have won a total of 84.2% of all the Nobel Prizes i...
+
+Result 2 (score=1.2029) — Contains answer: ❌ NO
+(Context hash: 0d60d726)
+The rise of Hitler and other dictators in the 1930s forced numerous Catholic intellectuals to flee Europe; president John O'Hara brought many to Notre Dame. From Germany came Anton-Hermann Chroust (1907–1982) in classics and law, and Waldemar Gurian a German Catholic intellectual of Jewish descent....
+
+
+🔎 Question 16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+🎯 Gold Answer: eight
+
+Result 1 (score=0.6592) — Contains answer: ✅ YES
+(Context hash: f50aef1c)
+The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – a...
+
+
+🔎 Question 17: In what year was the College of Engineering at Notre Dame formed?
+🎯 Gold Answer: 1920
+
+Result 1 (score=0.7613) — Contains answer: ✅ YES
+(Context hash: f50aef1c)
+The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – a...
+
+
+🔎 Question 18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+🎯 Gold Answer: the College of Science
+
+Result 1 (score=0.7249) — Contains answer: ❌ NO
+(Context hash: 5cd0d941)
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared...
+
+
+🔎 Question 19: How many departments are within the Stinson-Remick Hall of Engineering?
+🎯 Gold Answer: five
+
+Result 1 (score=0.8110) — Contains answer: ✅ YES
+(Context hash: f50aef1c)
+The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – a...
+
+
+🔎 Question 20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+🎯 Gold Answer: the 1870s
+
+Result 1 (score=0.6532) — Contains answer: ✅ YES
+(Context hash: f50aef1c)
+The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – a...
+
+
+🔎 Question 21: What entity provides help with the management of time for new students at Notre Dame?
+🎯 Gold Answer: Learning Resource Center
+
+Result 1 (score=0.7858) — Contains answer: ✅ YES
+(Context hash: 5cd0d941)
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared...
+
+
+🔎 Question 22: How many colleges for undergraduates are at Notre Dame?
+🎯 Gold Answer: five
+
+Result 1 (score=0.6891) — Contains answer: ✅ YES
+(Context hash: 5cd0d941)
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared...
+
+
+🔎 Question 23: What was created at Notre Dame in 1962 to assist first year students?
+🎯 Gold Answer: The First Year of Studies program
+
+Result 1 (score=0.5913) — Contains answer: ✅ YES
+(Context hash: 5cd0d941)
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared...
+
+
+🔎 Question 24: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+🎯 Gold Answer: U.S. News & World Report
+
+Result 1 (score=0.4139) — Contains answer: ✅ YES
+(Context hash: 5cd0d941)
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared...
+
+
+🔎 Question 25: The granting of Doctorate degrees first occurred in what year at Notre Dame?
+🎯 Gold Answer: 1924
+
+Result 1 (score=0.9029) — Contains answer: ✅ YES
+(Context hash: 56e44f78)
+The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a th...
+
+
+🔎 Question 26: What type of degree is an M.Div.?
+🎯 Gold Answer: Master of Divinity
+
+Result 1 (score=0.9539) — Contains answer: ✅ YES
+(Context hash: 56e44f78)
+The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a th...
+
+
+🔎 Question 27: Which program at Notre Dame offers a Master of Education degree?
+🎯 Gold Answer: Alliance for Catholic Education
+
+Result 1 (score=0.7042) — Contains answer: ✅ YES
+(Context hash: 56e44f78)
+The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a th...
+
+
+🔎 Question 28: In what year was a Master of Arts course first offered at Notre Dame?
+🎯 Gold Answer: 1854
+
+Result 1 (score=0.7416) — Contains answer: ❌ NO
+(Context hash: 5cd0d941)
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared...
+
+
+🔎 Question 29: Which department at Notre Dame is the only one to not offer a PhD program?
+🎯 Gold Answer: Department of Pre-Professional Studies
+
+Result 1 (score=0.9232) — Contains answer: ❌ NO
+(Context hash: c00069c4)
+Besides its prominence in sports, Notre Dame is also a large, four-year, highly residential research University, and is consistently ranked among the top twenty universities in the United States  and as a major global university. The undergraduate component of the university is organized into four c...
+
+
+🔎 Question 30: What institute at Notre Dame studies  the reasons for violent conflict?
+🎯 Gold Answer: Joan B. Kroc Institute for International Peace Studies
+
+Result 1 (score=0.9063) — Contains answer: ✅ YES
+(Context hash: 3c3ea751)
+The Joan B. Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace. It offers PhD, Master's, and undergraduate degrees in peace studies. It was founded...
+
+
+🔎 Question 31: What is the title of Notre Dame's Theodore Hesburgh?
+🎯 Gold Answer: President Emeritus of the University of Notre Dame
+
+Result 1 (score=0.7483) — Contains answer: ❌ NO
+(Context hash: 0b4c1c8f)
+The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned wit...
+
+
+🔎 Question 32: In what year was the Joan B. Kroc Institute for International Peace Studies founded?
+🎯 Gold Answer: 1986
+
+Result 1 (score=0.3865) — Contains answer: ✅ YES
+(Context hash: 3c3ea751)
+The Joan B. Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace. It offers PhD, Master's, and undergraduate degrees in peace studies. It was founded...
+
+
+🔎 Question 33: To whom was John B. Kroc married?
+🎯 Gold Answer: Ray Kroc
+
+Result 1 (score=1.1348) — Contains answer: ❌ NO
+(Context hash: 125eed97)
+In 1936, when Tito stayed at the Hotel Lux in Moscow, he met the Austrian comrade Lucia Bauer. They married in October 1936, but the records of this marriage were later erased....
+
+
+🔎 Question 34: What company did Ray Kroc own?
+🎯 Gold Answer: McDonald's
+
+Result 1 (score=1.2834) — Contains answer: ❌ NO
+(Context hash: b91b2ff6)
+The merger made Columbia and Epic sister labels to RCA Records, which was once owned by RCA which also owned CBS rival NBC. It also started the process of bringing BMG's Arista Records back under common ownership with its former parent Columbia Pictures, a Sony division since 1989, and also brought...
+
+Result 3 (score=1.2863) — Contains answer: ❌ NO
+(Context hash: 6de12035)
+Kanye Omari West was born on June 8, 1977 in Atlanta, Georgia. His parents divorced when he was three and he and his mother moved to Chicago, Illinois. His father, Ray West, is a former Black Panther and was one of the first black photojournalists at The Atlanta Journal-Constitution. Ray West was la...
+
+
+🔎 Question 35: How many stories tall is the main library at Notre Dame?
+🎯 Gold Answer: 14
+
+Result 1 (score=0.7978) — Contains answer: ✅ YES
+(Context hash: 0b4c1c8f)
+The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned wit...
+
+
+🔎 Question 36: What is the name of the main library at Notre Dame?
+🎯 Gold Answer: Theodore M. Hesburgh Library
+
+Result 1 (score=0.7092) — Contains answer: ✅ YES
+(Context hash: 0b4c1c8f)
+The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned wit...
+
+
+🔎 Question 37: In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+🎯 Gold Answer: 1963
+
+Result 1 (score=0.5219) — Contains answer: ✅ YES
+(Context hash: 0b4c1c8f)
+The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned wit...
+
+
+🔎 Question 38: Which artist created the mural on the Theodore M. Hesburgh Library?
+🎯 Gold Answer: Millard Sheets
+
+Result 1 (score=0.5391) — Contains answer: ✅ YES
+(Context hash: 0b4c1c8f)
+The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned wit...
+
+
+🔎 Question 39: What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+🎯 Gold Answer: Touchdown Jesus
+
+Result 1 (score=0.8518) — Contains answer: ✅ YES
+(Context hash: 0b4c1c8f)
+The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned wit...
+
+
+🔎 Question 40: How many incoming students did Notre Dame admit in fall 2015?
+🎯 Gold Answer: 3,577
+
+Result 1 (score=0.5903) — Contains answer: ✅ YES
+(Context hash: b0167466)
+Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19.7%). The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities. The university pract...
+
+
+🔎 Question 41: What percentage of students were admitted to Notre Dame in fall 2015?
+🎯 Gold Answer: 19.7%
+
+Result 1 (score=0.5195) — Contains answer: ✅ YES
+(Context hash: b0167466)
+Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19.7%). The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities. The university pract...
+
+
+🔎 Question 42: Where does Notre Dame rank in terms of academic profile among research universities in the US?
+🎯 Gold Answer: the top 10 to 15 in the nation
+
+Result 1 (score=0.5750) — Contains answer: ❌ NO
+(Context hash: 384315a8)
+In 2015-2016, Notre Dame ranked 18th overall among "national universities" in the United States in U.S. News & World Report's Best Colleges 2016. In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual. Forbes.com's America's Best Colleges ranks...
+
+
+🔎 Question 43: What percentage of students at Notre Dame participated in the Early Action program?
+🎯 Gold Answer: 39.1%
+
+Result 1 (score=0.7128) — Contains answer: ✅ YES
+(Context hash: b0167466)
+Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19.7%). The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities. The university pract...
+
+
+🔎 Question 44: How many miles does the average student at Notre Dame travel to study there?
+🎯 Gold Answer: more than 750 miles
+
+Result 1 (score=0.7476) — Contains answer: ✅ YES
+(Context hash: b0167466)
+Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19.7%). The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities. The university pract...
+
+
+🔎 Question 45: Where did U.S. News & World Report rank Notre Dame in its 2015-2016 university rankings?
+🎯 Gold Answer: 18th overall
+
+Result 1 (score=0.5613) — Contains answer: ✅ YES
+(Context hash: 384315a8)
+In 2015-2016, Notre Dame ranked 18th overall among "national universities" in the United States in U.S. News & World Report's Best Colleges 2016. In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual. Forbes.com's America's Best Colleges ranks...
+
+
+🔎 Question 46: Forbes.com placed Notre Dame at what position compared to other US research universities?
+🎯 Gold Answer: 8th
+
+Result 1 (score=0.5935) — Contains answer: ✅ YES
+(Context hash: 384315a8)
+In 2015-2016, Notre Dame ranked 18th overall among "national universities" in the United States in U.S. News & World Report's Best Colleges 2016. In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual. Forbes.com's America's Best Colleges ranks...
+
+
+🔎 Question 47: The undergrad school at the Mendoza College of Business was ranked where according to BusinessWeek?
+🎯 Gold Answer: 1st overall
+
+Result 1 (score=0.9367) — Contains answer: ✅ YES
+(Context hash: 384315a8)
+In 2015-2016, Notre Dame ranked 18th overall among "national universities" in the United States in U.S. News & World Report's Best Colleges 2016. In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual. Forbes.com's America's Best Colleges ranks...
+
+
+🔎 Question 48: In 2014 what entity named Notre Dame 10th best of all American universities?
+🎯 Gold Answer: USA Today
+
+Result 1 (score=0.5719) — Contains answer: ✅ YES
+(Context hash: 384315a8)
+In 2015-2016, Notre Dame ranked 18th overall among "national universities" in the United States in U.S. News & World Report's Best Colleges 2016. In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual. Forbes.com's America's Best Colleges ranks...
+
+
+🔎 Question 49: What percentage of Notre Dame students decide to study abroad?
+🎯 Gold Answer: 57.6%
+
+Result 1 (score=0.6106) — Contains answer: ❌ NO
+(Context hash: b0167466)
+Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19.7%). The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities. The university pract...
+
+
+🔎 Question 50: What person was the Director of the Science Museum at Notre Dame in the late 19th century?
+🎯 Gold Answer: Father Joseph Carrier, C.S.C.
+
+Result 1 (score=1.0516) — Contains answer: ✅ YES
+(Context hash: 852bfdc1)
+Father Joseph Carrier, C.S.C. was Director of the Science Museum and the Library and Professor of Chemistry and Physics until 1874. Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church. One o...
+
+
+🔎 Question 51: What was the lifespan of John Augustine Zahm?
+🎯 Gold Answer: 1851–1921
+
+Result 1 (score=1.3769) — Contains answer: ❌ NO
+(Context hash: ba0ff8d2)
+In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models. Around 1899, Professor Jerome Green became the first American to send a wireless message. In 1931, Father Julius Nieuwland performed early work on basic reactions that was used...
+
+
+🔎 Question 52: What program did John Augustine Zahm come to co-direct at Nore Dame?
+🎯 Gold Answer: the Science Department
+
+Result 1 (score=0.9003) — Contains answer: ✅ YES
+(Context hash: 852bfdc1)
+Father Joseph Carrier, C.S.C. was Director of the Science Museum and the Library and Professor of Chemistry and Physics until 1874. Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church. One o...
+
+
+🔎 Question 53: What book did John Zahm write in 1896?
+🎯 Gold Answer: Evolution and Dogma
+
+Result 1 (score=0.9762) — Contains answer: ✅ YES
+(Context hash: 852bfdc1)
+Father Joseph Carrier, C.S.C. was Director of the Science Museum and the Library and Professor of Chemistry and Physics until 1874. Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church. One o...
+
+
+🔎 Question 54: What professorship did Father Josh Carrier hold at Notre Dame?
+🎯 Gold Answer: Professor of Chemistry and Physics
+
+Result 1 (score=0.9435) — Contains answer: ✅ YES
+(Context hash: 852bfdc1)
+Father Joseph Carrier, C.S.C. was Director of the Science Museum and the Library and Professor of Chemistry and Physics until 1874. Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church. One o...
+
+
+🔎 Question 55: In what year did Albert Zahm begin comparing aeronatical models at Notre Dame?
+🎯 Gold Answer: 1882
+
+Result 1 (score=0.8112) — Contains answer: ✅ YES
+(Context hash: ba0ff8d2)
+In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models. Around 1899, Professor Jerome Green became the first American to send a wireless message. In 1931, Father Julius Nieuwland performed early work on basic reactions that was used...
+
+
+🔎 Question 56: Which professor sent the first wireless message in the USA?
+🎯 Gold Answer: Professor Jerome Green
+
+Result 1 (score=0.8106) — Contains answer: ❌ NO
+(Context hash: 8712b853)
+On June 21, 1880, Bell's assistant transmitted a wireless voice telephone message a considerable distance, from the roof of the Franklin School in Washington, D.C., to Bell at the window of his laboratory, some 213 metres (700 ft) away, 19 years before the first voice radio transmissions....
+
+
+🔎 Question 57: In what year did Jerome Green send his first wireless message?
+🎯 Gold Answer: Around 1899
+
+Result 1 (score=0.9345) — Contains answer: ✅ YES
+(Context hash: ba0ff8d2)
+In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models. Around 1899, Professor Jerome Green became the first American to send a wireless message. In 1931, Father Julius Nieuwland performed early work on basic reactions that was used...
+
+
+🔎 Question 58: Which individual worked on projects at Notre Dame that eventually created neoprene?
+🎯 Gold Answer: Father Julius Nieuwland
+
+Result 1 (score=1.0952) — Contains answer: ❌ NO
+(Context hash: cfd7a950)
+The University of Notre Dame has made being a sustainability leader an integral part of its mission, creating the Office of Sustainability in 2008 to achieve a number of goals in the areas of power generation, design and construction, waste reduction, procurement, food services, transportation, and...
+
+
+🔎 Question 59: What did the brother of John Zahm construct at Notre Dame?
+🎯 Gold Answer: an early wind tunnel
+
+Result 1 (score=1.0247) — Contains answer: ✅ YES
+(Context hash: ba0ff8d2)
+In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models. Around 1899, Professor Jerome Green became the first American to send a wireless message. In 1931, Father Julius Nieuwland performed early work on basic reactions that was used...
+
+
+🔎 Question 60: Work on a germ-free-life ended up in the creation of which Notre Dame institute?
+🎯 Gold Answer: The Lobund Institute
+
+Result 1 (score=0.8989) — Contains answer: ❌ NO
+(Context hash: cfd7a950)
+The University of Notre Dame has made being a sustainability leader an integral part of its mission, creating the Office of Sustainability in 2008 to achieve a number of goals in the areas of power generation, design and construction, waste reduction, procurement, food services, transportation, and...
+
+
+🔎 Question 61: Around what time did Lobund of Notre Dame become independent?
+🎯 Gold Answer: the 1940s
+
+Result 1 (score=0.9371) — Contains answer: ❌ NO
+(Context hash: e5764e5a)
+In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis. By contrast, the Jesu...
+
+
+🔎 Question 62: In what year did Lobund at Notre Dame become an Institute?
+🎯 Gold Answer: 1950
+
+Result 1 (score=0.8711) — Contains answer: ❌ NO
+(Context hash: 1fc97bd5)
+The Rev. John J. Cavanaugh, C.S.C. served as president from 1946 to 1952. Cavanaugh's legacy at Notre Dame in the post-war years was devoted to raising academic standards and reshaping the university administration to suit it to an enlarged educational mission and an expanded student body and stress...
+
+
+🔎 Question 63: The Lobund Institute was merged into the Department of Biology at Notre Dame in what year?
+🎯 Gold Answer: 1958
+
+Result 1 (score=0.6061) — Contains answer: ✅ YES
+(Context hash: b4ee0f75)
+The Lobund Institute grew out of pioneering research in germ-free-life which began in 1928. This area of research originated in a question posed by Pasteur as to whether animal life was possible without bacteria. Though others had taken up this idea, their research was short lived and inconclusive....
+
+
+🔎 Question 64: When did study of a germ-free-life begin at Notre Dame?
+🎯 Gold Answer: 1928
+
+Result 1 (score=0.8496) — Contains answer: ✅ YES
+(Context hash: b4ee0f75)
+The Lobund Institute grew out of pioneering research in germ-free-life which began in 1928. This area of research originated in a question posed by Pasteur as to whether animal life was possible without bacteria. Though others had taken up this idea, their research was short lived and inconclusive....
+
+
+🔎 Question 65: Gurian created what in 1939 at Notre Dame?
+🎯 Gold Answer: The Review of Politics
+
+Result 1 (score=1.1675) — Contains answer: ❌ NO
+(Context hash: 1fc97bd5)
+The Rev. John J. Cavanaugh, C.S.C. served as president from 1946 to 1952. Cavanaugh's legacy at Notre Dame in the post-war years was devoted to raising academic standards and reshaping the university administration to suit it to an enlarged educational mission and an expanded student body and stress...
+
+
+🔎 Question 66: What was the Review of Politics inspired by?
+🎯 Gold Answer: German Catholic journals
+
+Result 1 (score=1.0844) — Contains answer: ❌ NO
+(Context hash: 4bb5ea6f)
+During the Age of Enlightenment, philosophers such as John Locke advocated the principle in their writings, whereas others, such as Thomas Hobbes, strongly opposed it. Montesquieu was one of the foremost supporters of separating the legislature, the executive, and the judiciary. His writings conside...
+
+
+🔎 Question 67: Over how many years did Gurian edit the Review of Politics at Notre Dame?
+🎯 Gold Answer: 44
+
+Result 1 (score=0.6857) — Contains answer: ✅ YES
+(Context hash: 791b0e9d)
+The Review of Politics was founded in 1939 by Gurian, modeled after German Catholic journals. It quickly emerged as part of an international Catholic intellectual revival, offering an alternative vision to positivist philosophy. For 44 years, the Review was edited by Gurian, Matthew Fitzsimons, Fred...
+
+
+🔎 Question 68: Thomas Stritch was an editor of which publican from Notre Dame?
+🎯 Gold Answer: Review of Politics
+
+Result 1 (score=1.0587) — Contains answer: ❌ NO
+(Context hash: d7cfa0b5)
+Hesburgh is also credited with transforming the face of Notre Dame by making it a coeducational institution. In the mid-1960s Notre Dame and Saint Mary's College developed a co-exchange program whereby several hundred students took classes not offered at their home institution, an arrangement that a...
+
+
+🔎 Question 69: Who was the president of Notre Dame in 2012?
+🎯 Gold Answer: John Jenkins
+
+Result 1 (score=0.8602) — Contains answer: ❌ NO
+(Context hash: 25a91415)
+Since 2005, Notre Dame has been led by John I. Jenkins, C.S.C., the 17th president of the university. Jenkins took over the position from Malloy on July 1, 2005. In his inaugural address, Jenkins described his goals of making the university a leader in research that recognizes ethics and building th...
+
+
+🔎 Question 70: The Kellogg Institute for International Studies is part of which university?
+🎯 Gold Answer: Notre Dame
+
+Result 1 (score=0.9659) — Contains answer: ❌ NO
+(Context hash: 5792ac18)
+In several countries, like Germany, the Netherlands, Switzerland and Turkey, institutes of technology and polytechnics are institutions of higher education, and have been accredited to award academic degrees and doctorates. Famous examples are the Istanbul Technical University, ETH Zurich, İYTE, Del...
+
+Result 2 (score=0.9666) — Contains answer: ✅ YES
+(Context hash: ecbd31ae)
+As of 2012[update] research continued in many fields. The university president, John Jenkins, described his hope that Notre Dame would become "one of the pre–eminent research institutions in the world" in his inaugural address. The university has many multi-disciplinary institutes devoted to researc...
+
+
+🔎 Question 71: What does the Kroc Institute at Notre Dame focus on?
+🎯 Gold Answer: International Peace studies
+
+Result 1 (score=0.5910) — Contains answer: ✅ YES
+(Context hash: 3c3ea751)
+The Joan B. Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace. It offers PhD, Master's, and undergraduate degrees in peace studies. It was founded...
+
+
+🔎 Question 72: In what year did Notre Dame begin to host the Global Adaptation Index?
+🎯 Gold Answer: 2013
+
+Result 1 (score=0.5476) — Contains answer: ✅ YES
+(Context hash: ecbd31ae)
+As of 2012[update] research continued in many fields. The university president, John Jenkins, described his hope that Notre Dame would become "one of the pre–eminent research institutions in the world" in his inaugural address. The university has many multi-disciplinary institutes devoted to researc...
+
+
+🔎 Question 73: What threat does the Global Adaptation Index study?
+🎯 Gold Answer: climate change
+
+Result 1 (score=0.9016) — Contains answer: ❌ NO
+(Context hash: 2d63b977)
+The Human Development Index has been criticized on a number of grounds including alleged ideological biases towards egalitarianism and so-called "Western models of development", failure to include any ecological considerations, lack of consideration of technological development or contributions to t...
+
+
+🔎 Question 74: How many undergrads were attending Notre Dame in 2014?
+🎯 Gold Answer: 8,448
+
+Result 1 (score=0.6827) — Contains answer: ❌ NO
+(Context hash: b0167466)
+Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19.7%). The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities. The university pract...
+
+
+🔎 Question 75: What percentage of students at Notre Dame are the children of former Notre Dame students?
+🎯 Gold Answer: 21–24%
+
+Result 1 (score=0.8027) — Contains answer: ❌ NO
+(Context hash: b0167466)
+Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19.7%). The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities. The university pract...
+
+
+🔎 Question 76: How many teams participate in the Notre Dame Bookstore Basketball tournament?
+🎯 Gold Answer: over 700
+
+Result 1 (score=0.9258) — Contains answer: ❌ NO
+(Context hash: 28f88449)
+Notre Dame rose to national prominence in the early 1900s for its Fighting Irish football team, especially under the guidance of the legendary coach Knute Rockne. The university's athletic teams are members of the NCAA Division I and are known collectively as the Fighting Irish. The football team, a...
+
+
+🔎 Question 77: For what cause is money raised at the Bengal Bouts tournament at Notre Dame?
+🎯 Gold Answer: the Holy Cross Missions in Bangladesh
+
+Result 1 (score=1.0797) — Contains answer: ❌ NO
+(Context hash: bb5b9f48)
+Notre Dame's conference affiliations for all of its sports except football and fencing changed in July 2013 as a result of major conference realignment, and its fencing affiliation will change in July 2014. The Irish left the Big East for the ACC during a prolonged period of instability in the Big E...
+
+
+🔎 Question 78: How many students in total were at Notre Dame in 2014?
+🎯 Gold Answer: 12,179
+
+Result 1 (score=0.7159) — Contains answer: ❌ NO
+(Context hash: b0167466)
+Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19.7%). The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities. The university pract...
+
+
+🔎 Question 79: What percentage of undergrads live on the Notre Dame campus?
+🎯 Gold Answer: 80%
+
+Result 1 (score=0.7193) — Contains answer: ❌ NO
+(Context hash: b0167466)
+Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19.7%). The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities. The university pract...
+
+
+🔎 Question 80: How many student housing areas are reserved for Notre Dame's graduate students?
+🎯 Gold Answer: four
+
+Result 1 (score=0.7509) — Contains answer: ✅ YES
+(Context hash: 0a654f92)
+About 80% of undergraduates and 20% of graduate students live on campus. The majority of the graduate students on campus live in one of four graduate housing complexes on campus, while all on-campus undergraduates live in one of the 29 residence halls. Because of the religious affiliation of the uni...
+
+
+🔎 Question 81: How many dorms for males are on the Notre Dame campus?
+🎯 Gold Answer: 15
+
+Result 1 (score=0.6649) — Contains answer: ✅ YES
+(Context hash: 0a654f92)
+About 80% of undergraduates and 20% of graduate students live on campus. The majority of the graduate students on campus live in one of four graduate housing complexes on campus, while all on-campus undergraduates live in one of the 29 residence halls. Because of the religious affiliation of the uni...
+
+
+🔎 Question 82: What amount of the graduate student body at Notre Dame live on the campus?
+🎯 Gold Answer: 20%
+
+Result 1 (score=0.7562) — Contains answer: ❌ NO
+(Context hash: c00069c4)
+Besides its prominence in sports, Notre Dame is also a large, four-year, highly residential research University, and is consistently ranked among the top twenty universities in the United States  and as a major global university. The undergraduate component of the university is organized into four c...
+
+
+🔎 Question 83: There are how many dorms for females at Notre Dame?
+🎯 Gold Answer: 14
+
+Result 1 (score=0.6490) — Contains answer: ✅ YES
+(Context hash: 0a654f92)
+About 80% of undergraduates and 20% of graduate students live on campus. The majority of the graduate students on campus live in one of four graduate housing complexes on campus, while all on-campus undergraduates live in one of the 29 residence halls. Because of the religious affiliation of the uni...
+
+
+🔎 Question 84: What is Congregation of Holy Cross in Latin?
+🎯 Gold Answer: Congregatio a Sancta Cruce
+
+Result 1 (score=1.0071) — Contains answer: ❌ NO
+(Context hash: 5150e109)
+The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the sh...
+
+
+🔎 Question 85: What percentage of Notre Dame students feel they are Christian?
+🎯 Gold Answer: more than 93%
+
+Result 1 (score=0.8121) — Contains answer: ❌ NO
+(Context hash: 562fd70c)
+According to a 2014 study by the Pew Research Center, 57% of the population of the city identified themselves as Christians, with 25% professing attendance at a variety of churches that could be considered Protestant, and 29% professing Roman Catholic beliefs. while 33% claim no religious affiliatio...
+
+
+🔎 Question 86: How often is Catholic mass held at Notre Dame in a week?
+🎯 Gold Answer: over 100 times
+
+Result 1 (score=0.9043) — Contains answer: ✅ YES
+(Context hash: 048901ef)
+The university is affiliated with the Congregation of Holy Cross (Latin: Congregatio a Sancta Cruce, abbreviated postnominals: "CSC"). While religious affiliation is not a criterion for admission, more than 93% of students identify as Christian, with over 80% of the total being Catholic. Collectivel...
+
+
+🔎 Question 87: How many chapels are on the Notre Dame campus?
+🎯 Gold Answer: Fifty-seven
+
+Result 1 (score=0.8542) — Contains answer: ❌ NO
+(Context hash: 6bdc076c)
+The University of Notre Dame du Lac (or simply Notre Dame /ˌnoʊtərˈdeɪm/ NOH-tər-DAYM) is a Catholic research university located adjacent to South Bend, Indiana, in the United States. In French, Notre Dame du Lac means "Our Lady of the Lake" and refers to the university's patron saint, the Virgin Ma...
+
+
+🔎 Question 88: What amount of the student body of Notre Dame identifies as Catholic?
+🎯 Gold Answer: over 80%
+
+Result 1 (score=0.7725) — Contains answer: ✅ YES
+(Context hash: 048901ef)
+The university is affiliated with the Congregation of Holy Cross (Latin: Congregatio a Sancta Cruce, abbreviated postnominals: "CSC"). While religious affiliation is not a criterion for admission, more than 93% of students identify as Christian, with over 80% of the total being Catholic. Collectivel...
+
+
+🔎 Question 89: What was the music hall at Notre Dame called?
+🎯 Gold Answer: Washington Hall
+
+Result 1 (score=0.8470) — Contains answer: ❌ NO
+(Context hash: 63d9193e)
+On July 1, 2014, the University of Notre Dame and Under Armour reached an agreement in which Under Armour will provide uniforms, apparel,equipment, and monetary compensation to Notre Dame for 10 years. This contract, worth almost $100 million, is the most lucrative in the history of the NCAA. The un...
+
+
+🔎 Question 90: In what year was the Main Building at Notre Dame razed in a fire?
+🎯 Gold Answer: 1879
+
+Result 1 (score=0.9342) — Contains answer: ❌ NO
+(Context hash: 32220a4d)
+A Science Hall was built in 1883 under the direction of Fr. Zahm, but in 1950 it was converted to a student union building and named LaFortune Center, after Joseph LaFortune, an oil executive from Tulsa, Oklahoma. Commonly known as "LaFortune" or "LaFun," it is a 4-story building of 83,000 square fe...
+
+
+🔎 Question 91: Who was the president of Notre Dame in 1879?
+🎯 Gold Answer: Rev. William Corby
+
+Result 1 (score=0.8333) — Contains answer: ❌ NO
+(Context hash: e5764e5a)
+In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis. By contrast, the Jesu...
+
+
+🔎 Question 92: On what date was the rebuilding of The Main Building begun at Notre Dame after the fire that claimed the previous?
+🎯 Gold Answer: 17th of May
+
+Result 1 (score=1.0000) — Contains answer: ❌ NO
+(Context hash: 25a91415)
+Since 2005, Notre Dame has been led by John I. Jenkins, C.S.C., the 17th president of the university. Jenkins took over the position from Malloy on July 1, 2005. In his inaugural address, Jenkins described his goals of making the university a leader in research that recognizes ethics and building th...
+
+
+🔎 Question 93: What did the Science Hall at Notre Dame come to be known as?
+🎯 Gold Answer: LaFortune Student Center
+
+Result 1 (score=0.8409) — Contains answer: ❌ NO
+(Context hash: 1fc97bd5)
+The Rev. John J. Cavanaugh, C.S.C. served as president from 1946 to 1952. Cavanaugh's legacy at Notre Dame in the post-war years was devoted to raising academic standards and reshaping the university administration to suit it to an enlarged educational mission and an expanded student body and stress...
+
+
+🔎 Question 94: What type of education was pushed at Notre Dame before its embracing of national standards?
+🎯 Gold Answer: scholastic and classical
+
+Result 1 (score=0.7041) — Contains answer: ✅ YES
+(Context hash: e5764e5a)
+In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis. By contrast, the Jesu...
+
+
+🔎 Question 95: Which college did Notre Dame add in 1921?
+🎯 Gold Answer: College of Commerce
+
+Result 1 (score=0.7555) — Contains answer: ✅ YES
+(Context hash: e5764e5a)
+In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis. By contrast, the Jesu...
+
+
+🔎 Question 96: In 1919 a new president of Notre Dame was named, who was it?
+🎯 Gold Answer: Father James Burns
+
+Result 1 (score=0.8200) — Contains answer: ✅ YES
+(Context hash: e5764e5a)
+In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis. By contrast, the Jesu...
+
+
+🔎 Question 97: Over how many years did the change to national standards undertaken at Notre Dame in the early 20th century take place?
+🎯 Gold Answer: three years
+
+Result 1 (score=0.8054) — Contains answer: ✅ YES
+(Context hash: e5764e5a)
+In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis. By contrast, the Jesu...
+
+
+🔎 Question 98: Those who attended a Jesuit college may have been forbidden from joining which Law School due to the curricula at the Jesuit institution?
+🎯 Gold Answer: Harvard Law School
+
+Result 1 (score=0.9419) — Contains answer: ✅ YES
+(Context hash: e5764e5a)
+In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis. By contrast, the Jesu...
+
+
+🔎 Question 99: The Notre Dame football team got a new head coach in 1918, who was it?
+🎯 Gold Answer: Knute Rockne
+
+Result 1 (score=0.9175) — Contains answer: ✅ YES
+(Context hash: 78284ef0)
+One of the main driving forces in the growth of the University was its football team, the Notre Dame Fighting Irish. Knute Rockne became head coach in 1918. Under Rockne, the Irish would post a record of 105 wins, 12 losses, and five ties. During his 13 years the Irish won three national championshi...
+
+
+🔎 Question 100: What was the amount of wins Knute Rockne attained at Notre Dame while head coach?
+🎯 Gold Answer: 105
+
+Result 1 (score=0.4951) — Contains answer: ✅ YES
+(Context hash: 78284ef0)
+One of the main driving forces in the growth of the University was its football team, the Notre Dame Fighting Irish. Knute Rockne became head coach in 1918. Under Rockne, the Irish would post a record of 105 wins, 12 losses, and five ties. During his 13 years the Irish won three national championshi...
+
+
+📊 Recall@3: 59/100 = 59.00%

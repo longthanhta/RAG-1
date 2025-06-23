@@ -9,7 +9,7 @@ load_dotenv()
 # Configure Gemini API key
 # It's common to use "GOOGLE_API_KEY" as the environment variable name
 # Make sure your .env file has a line like: GOOGLE_API_KEY="YOUR_API_KEY_HERE"
-api_key = os.getenv("GOOGLE_API_KEY_FREE") 
+api_key = os.getenv("GOOGLE_API_KEY_FREE")
 if not api_key:
     raise ValueError("GOOGLE_API_KEY_FREE not found in environment variables. Please set it in a .env file.")
 
@@ -71,12 +71,12 @@ def get_grounded_answer(query):
                - list: The search results used as context.
     """
     search_results = search_federal_register(query)
-    
+
     if not search_results:
         return "Could not find relevant information in the Federal Register.", []
 
     context = "\n".join([f"Title: {res.get('title', 'N/A')}\nSnippet: {res.get('body', 'N/A')}\nURL: {res.get('href', 'N/A')}\n" for res in search_results])
-    
+
     prompt = f"Question: {query}\n\nAnswer the question concisely based *only* on the Federal Register information provided below. If the information does not contain the answer, state that you cannot answer based on the provided context.\n\nFederal Register Information:\n{context}\n\nAnswer:"
 
     try:
@@ -88,7 +88,7 @@ def get_grounded_answer(query):
 if __name__ == "__main__":
     query = "Recent tax changes 2025"
     answer, sources = get_grounded_answer(query)
-    
+
     print("Gemini Grounded Answer (Federal Register):\n", answer)
     print("\nSources:")
     if sources:

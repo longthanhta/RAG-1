@@ -16,7 +16,8 @@ dependencies = [
     "tqdm (>=4.67.1,<5.0.0)",
     "torch",          # installed with CUDA via pip
     "torchvision",    # installed with CUDA via pip
-    "torchaudio"      # installed with CUDA via pip
+    "torchaudio",      # installed with CUDA via pip
+    "duckduckgo-search (>=8.0.4,<9.0.0)"
 ]
 
 [tool.poetry]

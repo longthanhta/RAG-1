@@ -2,6 +2,7 @@
 
 import pdfplumber
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
